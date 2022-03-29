@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aszcoding
 - 👀 I’m interested in pursuing a career as a front end developer.
-- 🌱 I’m currently learning Javascript and React.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any front end projects.
 - 📫 How to reach me ashley.serranoziel@gmail.com
 
