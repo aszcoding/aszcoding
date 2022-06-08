@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aszcoding
+- 👋 Hi, I’m Ashley!
 - 👀 I’m interested in pursuing a career as a front end developer.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any front end projects.
