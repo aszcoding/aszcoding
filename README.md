@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashley!
-- 👀 I’m interested in pursuing a career as a front end developer.
-- 🌱 I’m currently working on cloning a website. It's my first full-stack project, and I'm learning so much! I'm using HTML, CSS, JS, PHP, SQL and MySQL for this project.
+- 👀 I’m a software developer!
+- 🌱 I’m not currently working on any personal projects.
 - 💞️ I’m looking to collaborate on any front end projects.
 - 📫 How to reach me ashley.serranoziel@gmail.com
 
